@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="http://fuyuka.atabook.org/"><i>ata book</i></a>
+    <a href="https://fuyukaaa.straw.page/"><i>straw</i></a>
 </p>
 
 <p align="center">
