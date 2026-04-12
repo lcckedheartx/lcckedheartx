@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="http://fuyuka.atabook.org/"><i>ata book</i></a>
-    <a href="https://fuyukaaa.straw.page/"><i>straw</i></a>
+  &nbsp &nbsp &nbsp 𝄞 &nbsp &nbsp
+    <a href="https://fuyukaaa.straw.page/"><i>strawpage</i></a>
 </p>
 
 <p align="center">
-  ──── ୨୧ ────
+  ──────── ୨୧ ────────
 </p>
