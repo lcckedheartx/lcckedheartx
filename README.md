@@ -8,7 +8,7 @@
 <p align="center">
   <a href="http://fuyuka.atabook.org/"><i>ata book</i></a>
   &nbsp &nbsp &nbsp 𝄞 &nbsp &nbsp
-    <a href="https://guns.lol/tgz./"><i>guns.lol</i></a>
+    <a href="https://guns/tgz./"><i>guns.lol</i></a>
 </p>
 
 <p align="center">
