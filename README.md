@@ -6,9 +6,9 @@
 ![image alt](https://github.com/lcckedheartx/lcckedheartx/blob/62ae96b689508d98dee14eb3f325b12ed89b4f11/a2151608a083bbfa3e5c8976112ec7c2.gif)
 
 <p align="center">
-  <a href="http://fuyuka.atabook.org/"><i>ata book</i></a>
+  <a href="http://fuyuka.atabook.org/"><i>𝔞𝔱𝔞𝔟𝔬𝔬𝔨</i></a>
   &nbsp &nbsp 𝄞 &nbsp &nbsp
-    <a href="https://guns.lol/tgz./"><i>guns</i></a>
+    <a href="https://guns.lol/tgz./"><i>𝔤𝔲𝔫𝔰</i></a>
 </p>
 
 
