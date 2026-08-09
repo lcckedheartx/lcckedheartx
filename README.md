@@ -11,6 +11,4 @@
     <a href="https://guns.lol/tgz./"><i>guns</i></a>
 </p>
 
-<p align="center">
-  ─────── ୨୧ ────────
-</p>
+
