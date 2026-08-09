@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=lcckedheartx&color=f64444&style=plastic&label=♱&base=0&abbreviated=true" />
 </p>
 
-![image alt](https://github.com/lcckedheartx/lcckedheartx/blob/5675acc83aa073847e89ef8b5315ec04b5b86681/lv_0_20260412124548.gif)
+![image alt](https://github.com/lcckedheartx/lcckedheartx/blob/62ae96b689508d98dee14eb3f325b12ed89b4f11/a2151608a083bbfa3e5c8976112ec7c2.gif)
 
 <p align="center">
   <a href="http://fuyuka.atabook.org/"><i>ata book</i></a>
