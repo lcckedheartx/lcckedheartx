@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="http://fuyuka.atabook.org/"><i>ata book</i></a>
-  &nbsp 𝄞 &nbsp &nbsp
+  &nbsp &nbsp 𝄞 &nbsp &nbsp
     <a href="https://guns.lol/tgz./"><i>guns</i></a>
 </p>
 
 <p align="center">
-  ──────── ୨୧ ────────
+  ─────── ୨୧ ────────
 </p>
