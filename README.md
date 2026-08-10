@@ -7,10 +7,11 @@
 
 <p align="center">
   <a href="http://fuyuka.atabook.org/"><i>𝔞𝔱𝔞𝔟𝔬𝔬𝔨</i></a>
-<div align="center">
-  <img src="https://github.com/lcckedheartx/lcckedheartx/blob/21ab5e2d820f3a2ffde4a9e94fcde0fc7ea59474/fbef0925784986809398b786177a5686.jpg" alt="Mô tả ảnh" width="50%" height="50%">
-</div>
-    <a href="https://guns.lol/tgz./"><i>𝔤𝔲𝔫𝔰</i></a>
+  &nbsp &nbsp 𑣲𝄞 &nbsp &nbsp
+<a href="https://guns.lol/tgz./">
+      <i>𝔤𝔲𝔫𝔰</i></a>
+  <br><br>
+  <img src="https://github.com/lcckedheartx/lcckedheartx/blob/21ab5e2d820f3a2ffde4a9e94fcde0fc7ea59474/fbef0925784986809398b786177a5686.jpg" alt="Mô tả ảnh" width="30%" height="30%">
 </p>
 
 
