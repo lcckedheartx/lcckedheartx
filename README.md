@@ -7,7 +7,9 @@
 ![image alt](https://github.com/lcckedheartx/lcckedheartx/blob/4dec82862137723581588da23562390678aa764f/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81138_20260901102927.png)
 
 <p align="center">
-  <a href="http://fuyuka.atabook.org/"><i>𝔞𝔱𝔞𝔟𝔬𝔬𝔨</i></a>
+  <a href="https://fuyuka.atabook.org/">
+    <img src="https://img.shields.io/badge/atabook-fef0db?style=for-the-badge" alt="Static Badge">
+  </a>
   &nbsp &nbsp 𑣲𝄞 &nbsp &nbsp
 <a href="https://guns.lol/tgz./">
       <i>𝔤𝔲𝔫𝔰</i></a>
