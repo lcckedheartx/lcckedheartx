@@ -12,7 +12,7 @@
   </a>
   &nbsp &nbsp 𑣲𝄞 &nbsp &nbsp
 <a href="https://guns.lol/tgz./">
-      <i>𝔤𝔲𝔫𝔰</i></a>
+  <img src="https://img.shields.io/badge/guns-F3C1D2?style=for-the-badge" alt="Static Badge">
   <br><br>
   <img src="https://github.com/lcckedheartx/lcckedheartx/blob/4915cfd87c6fa98eb94047739911c59f00ce8626/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81138_20260901102741.png" alt="Mô tả ảnh" width="40%" height="40%">
 </p>
