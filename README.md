@@ -12,7 +12,7 @@
 <a href="https://guns.lol/tgz./">
       <i>𝔤𝔲𝔫𝔰</i></a>
   <br><br>
-  <img src="https://github.com/lcckedheartx/lcckedheartx/blob/bf48d9371eaebe8dac26749c7baf28b16d6a5aa7/1000016344-removebg-preview.png" alt="Mô tả ảnh" width="30%" height="30%">
+  <img src="https://github.com/lcckedheartx/lcckedheartx/blob/4915cfd87c6fa98eb94047739911c59f00ce8626/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81138_20260901102741.png" alt="Mô tả ảnh" width="40%" height="40%">
 </p>
 
 
