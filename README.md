@@ -1,7 +1,7 @@
 ![image alt](https://github.com/lcckedheartx/lcckedheartx/blob/2ff02d12fa4ee4d8172821d8eea6e0fe11095182/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81138_20260901104248.png)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lcckedheartx&color=fef8bd&style=plastic&label=レゼ&base=0" />
+  <img src="https://komarev.com/ghpvc/?username=lcckedheartx&color=fef8bd&style=plastic&label=⪩⪨꠹&base=0" />
 </p>
 
 ![image alt](https://github.com/lcckedheartx/lcckedheartx/blob/4dec82862137723581588da23562390678aa764f/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81138_20260901102927.png)
