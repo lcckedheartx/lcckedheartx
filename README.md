@@ -13,6 +13,8 @@
 <img src="https://github.com/lcckedheartx/lcckedheartx/blob/4915cfd87c6fa98eb94047739911c59f00ce8626/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81138_20260901102741.png" alt="Mô tả ảnh" width="30%" height="30%">
 <a href="https://guns.lol/tgz./">
   <img src="https://img.shields.io/badge/guns-F3C1D2?style=for-the-badge" alt="Static Badge">
+
+  <img src="https://github.com/lcckedheartx/lcckedheartx/blob/0f4924bb8fbe8fb71692956dc92a9bbe2379d8aa/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81139_20260901112057.png" alt="Mô tả ảnh" width="50%" height="50%">
 </p>
 
 
